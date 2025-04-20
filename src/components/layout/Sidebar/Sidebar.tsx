@@ -21,7 +21,7 @@ export default function Sidebar({ children }: { children: ReactNode }) {
       <div className="flex items-center justify-between p-4 pb-2">
         {/* Logo: ancho animado */}
         <img
-          src="../../../../../public/assets/logo_sparkus.png"
+          src="https://asset.cloudinary.com/dgkazbemq/120cdce1a57eefa61a01c557d75a4562"
           alt="Logo"
           className={`
             overflow-hidden transition-all duration-300
