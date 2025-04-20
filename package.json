@@ -11,6 +11,7 @@
     "tailwind:watch": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
   },
   "dependencies": {
+    "lucide-react": "^0.501.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
